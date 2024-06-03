@@ -1,0 +1,165 @@
+body {
+  font-family: Manrope;
+}
+
+.container {
+  margin: 0 auto;
+  max-width: 1400px;
+}
+.maintag {
+  font-family: "Manrope", sans-serif;
+  color: rgb(18, 18, 18);
+  line-height: 60px;
+  font-weight: 200;
+  font-size: 60px;
+  margin-bottom: 30px;
+  width: 953.51px;
+  height: 120px;
+}
+.textontab {
+  font-family: "Manrope", sans-serif;
+  font-weight: 200;
+  font-size: 20px;
+  color: rgb(255, 255, 255);
+  line-height: 27px;
+  text-align: left;
+  width: 428.88px;
+  height: 81px;
+  position: absolute;
+  bottom: 40px;
+  left: 40px;
+  letter-spacing: -0.5px;
+}
+.onas {
+  font-family: Manrope;
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 25px;
+  color: rgb(18, 18, 18);
+  margin-bottom: 31px;
+}
+.afterrtag {
+  color: rgb(18, 18, 18);
+  font-size: 45px;
+  font-weight: 200;
+  line-height: 61px;
+  margin-bottom: 29px;
+  width: 1048px;
+  letter-spacing: -2px;
+}
+.stool {
+  background-image: url(../sourc/stool.png);
+  width: 1147px;
+  height: 500px;
+  margin-bottom: 150px;
+  position: relative;
+}
+/* .stool p {
+  padding-left: 40px;
+  padding-bottom: 40px;
+  padding-top: 379px;
+  width: 428.88px;
+  height: 81px;
+} */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+.uslugi {
+  width: 249px;
+  height: 67px;
+  display: block;
+  border-radius: 5px;
+  background: rgb(173, 24, 24);
+  text-decoration: none;
+  color: white;
+  line-height: 67px;
+  font-family: Manrope;
+  font-size: 20px;
+  font-weight: 200;
+  text-align: center;
+  margin-bottom: 150px;
+}
+.project {
+  margin-bottom: 90px;
+}
+.project_tag {
+  font-family: "Manrope";
+  width: 76px;
+  height: 24px;
+  color: rgb(18, 18, 18);
+  font-size: 18px;
+  font-weight: 200;
+  letter-spacing: -1px;
+  margin-bottom: 31px;
+}
+.project_img {
+  width: 1150px;
+  height: 450px;
+  background: url(/sourc/project_sofa.png);
+  margin-bottom: 15px;
+}
+.project_text {
+  color: rgb(18, 18, 18);
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 41px;
+  letter-spacing: -2px;
+  margin-bottom: 15px;
+}
+.project_btn {
+  color: rgb(173, 24, 24);
+  text-decoration: none;
+  font-size: 20px;
+  font-weight: 200;
+  line-height: 27px;
+  width: 124px;
+  height: 27px;
+  letter-spacing: -1px;
+}
+.look_project {
+  width: 1150px;
+  height: 153px;
+  background-color: white;
+  color: rgb(173, 24, 24);
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 41px;
+  border: 1px solid rgb(173, 24, 24);
+  border-radius: 5px;
+  font-family: "Manrope";
+  letter-spacing: -2px;
+  transition: 0.3s ease;
+}
+.look_project:hover {
+  background: rgb(173, 24, 24);
+  border-radius: 5px;
+  border: 1px solid rgb(173, 24, 24);
+  color: white;
+}
+.section_black {
+  background: rgb(18, 18, 18);
+  width: 100%;
+}
+.service {
+  color: rgb(255, 255, 255);
+  font-size: 18px;
+  font-weight: 200;
+  line-height: 25px;
+  padding-top: 151px;
+  margin-bottom: 35px;
+}
+.service_img {
+  margin-bottom: 15px;
+}
+.service_text {
+  height: 41px;
+  font-size: 30px;
+  font-weight: 200;
+  line-height: 41px;
+  color: white;
+  letter-spacing: -1.5px;
+}
+.service_block {
+  margin-bottom: 60px;
+}
